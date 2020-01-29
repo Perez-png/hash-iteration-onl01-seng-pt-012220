@@ -5,5 +5,7 @@ hash = {key1: "value1", key2:
 hash.each.do |key, value|
   puts "#{key} : #{value}"
 end
+
+
 --color
 --require spec_helper
